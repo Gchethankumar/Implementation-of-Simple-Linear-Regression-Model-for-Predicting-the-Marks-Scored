@@ -76,7 +76,21 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![Screenshot from 2023-09-01 07-21-27](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/657d1d92-38a9-4094-8ed9-1f34525fc339)
+
+![Screenshot from 2023-09-01 07-21-38](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/572364a4-56b9-4a22-8d24-8546d76438df)
+
+![Screenshot from 2023-09-01 07-21-53](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/c07d1859-8927-4097-9343-f8cba764cc8f)
+
+![Screenshot from 2023-09-01 07-22-04](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/c5f7ac09-c0f8-48bc-944c-3256eb75213d)
+
+![Screenshot from 2023-09-01 07-22-17](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/a28462a2-1ae2-41be-9965-4d8897088ca9)
+
+![Screenshot from 2023-09-01 07-22-26](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/edbb21da-2800-4d93-9db2-c922c6def611)
+
+![Screenshot from 2023-09-01 07-22-33](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/b61ed986-b31d-46c4-978d-3e5a037e5272)
+
+![Screenshot from 2023-09-01 07-22-46](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/82744637-d103-4e83-848e-8580a48c6060)
 
 
 ## Result:
